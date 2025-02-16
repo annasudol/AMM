@@ -50,7 +50,6 @@ artifacts
 
 # misc
 .DS_Store
-.env*
 
 # debug
 npm-debug.log*
@@ -66,3 +65,4 @@ yarn-error.log*
 
 # doc directory
 /doc
+config.bat
